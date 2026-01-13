@@ -1,0 +1,26 @@
+college_id	college_name	batch_size	location	tier	fees_total	age_of_institute	median_ctc_2023	median_ctc_2024	median_ctc_2025	mean_ctc_2025	median_stipend	ROI_Multiple		
+101	IIM Ahmedabad	402	Gujarat	Tier 1	26.50	64	32.02	32.02	34.59	35.50	4.00	1.31		
+102	IIM Bangalore 	595	Karnataka	Tier 1	26.00	52	32.21	33.00	32.61	34.88	4.00	1.25		
+103	IIM Calcutta 	456	West Bengal	Tier 1	27.00	64	33.67	30.00	34.23	35.07	4.00	1.27		
+104	IIM Lucknow	576	Uttar Pradesh	Tier 1.5	20.75	41	30.00	27.00	31.00	32.30	2.50	1.49		
+105	IIM Kozhikode 	561	Kerala	Tier 1.5	23.50	29	27.00	27.00	27.50	28.18	2.50	1.17		
+106	IIM Indore 	591	Madhya Pradesh	Tier 1.5	21.17	29	27.20	24.50	27.00	29.57	2.12	1.28		
+107	IIM Shillong 	382	Meghalaya	Tier 2	15.00	18	26.09	25.67	25.00	26.44	1.70	1.67		
+108	IIM Rohtak	386	Haryana	Tier 2	17.90	15	17.50	17.00	17.00	18.73	1.20	0.95		
+109	IIM Ranchi	322	Jharkhand	Tier 2	19.20	15	16.50	16.88	17.64	19.29	1.00	0.92		
+110	IIM Raipur 	328	Chhattisgarh	Tier 2	20.00	15	20.00	17.50	18.40	18.83	1.50	0.92		
+111	IIM Tiruchirappalli 	409	Tamil Nadu	Tier 2	19.50	14	19.50	18.24	18.00	19.27	1.00	0.92		
+112	IIM Udaipur 	330	Rajasthan	Tier 2	22.65	14	19.00	20.00	16.79	19.54	1.00	0.74		
+113	IIM Kashipur 	433	Uttarakhand	Tier 2	17.30	14	17.20	15.03	14.46	14.95	0.95	0.84	 	
+114	IIM Nagpur 	264	Maharashtra	Tier 3	21.00	10	16.85	15.00	17.03	18.07	0.65	0.81		
+115	IIM Visakhapatnam	377	Andhra Pradesh	Tier 3	20.51	10	16.00	15.50	16.00	16.40	0.60	0.78		
+116	IIM Amritsar 	318	Punjab	Tier 3	21.50	10	16.00	15.00	14.00	15.00	0.60	0.65		
+117	IIM Bodh Gaya 	285	Bihar	Tier 3	17.96	10	16.00	13.00	12.00	13.00	1.00	0.67		
+118	IIM Jammu 	255	Jammu & Kashmir	Tier 3	20.74	9	15.25	15.00	15.80	16.04	0.54	0.76		
+119	IIM Sambalpur 	314	Odisha	Tier 3	21.01	10	16.00	13.15	15.02	15.65	0.50	0.71		
+120	IIM Sirmaur 	295	Himachal Pradesh	Tier 3	17.50	10	13.00	12.49	12.50	13.30	0.50	0.71		
+121	IIM Mumbai 	480	Maharashtra 	Tier 1.5	21.00	62	26.00	28.00	28.88	33.84	2.00	1.38		
+														
+														
+														
+								
